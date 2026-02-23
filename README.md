@@ -1,2 +1,2 @@
 # Buddyboss Gutenberg Child Theme
-buddyboss-gutenberg-child-theme
+Child theme of BuddyBoss Theme with Gutenberg header/footer support.
